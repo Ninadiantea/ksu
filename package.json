@@ -1,0 +1,14 @@
+{
+  "name": "bot-koperasi",
+  "version": "1.0.0",
+  "description": "Bot Telegram Koperasi Wilayah",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "NamaAnda",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
